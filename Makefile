@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOCAL_PATH=/Users/bernal/Documents/ext/GitInception/java-operator-env/operators
+LOCAL_PATH=/Users/bernal/Documents/ext/GitRepos/java-operator-env/operators
 NAME=jk8sopr
 
 build:
